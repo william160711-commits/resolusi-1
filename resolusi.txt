@@ -1,0 +1,3 @@
+resolusi tahun ini:
+belajar framework js
+membuat web menggunakan framework js
