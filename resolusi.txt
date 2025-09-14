@@ -1,3 +1,4 @@
 resolusi tahun ini:
 belajar framework js
 membuat web menggunakan framework js
+belajar frontend sama backend
